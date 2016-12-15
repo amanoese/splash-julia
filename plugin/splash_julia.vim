@@ -7,7 +7,7 @@ let s:save_cpo = &cpo
 set cpo&vim
 
 autocmd BufNewFile,BufRead *.jl set filetype=julia
-autocmd BufNewFile,BufRead *.jl call splash#show(expand('<sfile>:h:h') . '/src/julia-tan-aa.txt')
+autocmd filetype julia call splash#show(expand('<sfile>:h:h') . '/src/julia-tan-aa.txt')
 
 let &cpo = s:save_cpo
 unlet s:save_cpo
