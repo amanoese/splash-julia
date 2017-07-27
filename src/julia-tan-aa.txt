@@ -34,4 +34,6 @@
                       |77      Z7/
                       (77)    (77|
 
-
+ ASCII ART based on "Julia-tan" by Takeshi KIMURA (CC BY-NC-SA)
+      Available at http://www.mechajyo.org/wp/?page_id=6
+Licensed under https://creativecommons.org/licenses/by-nc-sa/4.0/
