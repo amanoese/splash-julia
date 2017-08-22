@@ -1,6 +1,6 @@
 splash-julia
 ===
-This plugin is intended to display "Julia Tan" when reading julia file.
+This plugin is intended to display "Julia-Tan" when reading julia file.
 
 ## Install
 
@@ -13,4 +13,4 @@ open files of *.jl
 
 ## Thanks
 
-[Takeshi KIMURA](https://twitter.com/kimrin/) for created character of julie-tan.
+[Takeshi KIMURA](https://twitter.com/kimrin/) for created character of "Julia-Tan".
